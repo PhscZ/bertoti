@@ -6,7 +6,7 @@
   
   And the issue is not even using easy to learn and apply languages such as Python, or even not the language at all but what the programmer chooses to do with the language, but how it relates to the scope of the project, if you are going to have millions of users, then maybe performance will not only be a great tradeoff for ease of development for you (due to, for example, using less server-power) but also for the user.
 
-  If you look at Google Lighthouse statistics, you can see that most web users have extremely slow computers and most often mobile devices in the modern era, and the loading time for websites is insanely long, the same applies to typical desktop software considering the huge amount of frameworks and premade content used: when calculating the value of pi with the Leibniz method 100000000 times, C is 176.2 times faster than Python, while Python is made in C!
+  If you look at Google Lighthouse statistics, you can see that most web users have extremely slow computers and most often mobile devices in the modern era, and the loading time for websites is insanely long, the same applies to typical desktop software considering the huge amount of frameworks and premade content used: when calculating the value of pi with the Leibniz method 100000000 times, C is 176.2 times faster than stanard Python, which was made with C as it's programming language!
   
   There is also the fact that things come and go, years ago Adobe Flash was the hot thing, while now browsers do not even support it, and it was the high-level easy-to-learn easy-to-use language of the time, and it died exactly due to this: performance, security and compatibility issues. 
   
