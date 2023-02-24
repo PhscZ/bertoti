@@ -12,12 +12,13 @@
   
   I constantly experience all of this which I've mentioned myself with software I am often forced to use (good examples being everything related to Reddit), because after all a lot of people are not aware of better alternatives out there, but with time and new good software with good marketing and advertisement behind them, naturally things should get better, as they did from the Flash days, but you might just have some great opportunities coming up being aware of all of this!
   
-  
-  
-  
-  
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+  
 1 - OQUE É ENGENHARIA DE SOFTWARE?
   Engenharia de software é o termo "engenharia" aplicado a software, ou seja, o conhecimento (geralmente ciêntifico) aplicado de forma a planejar, criar, executar, atualizar ou manter algo - no caso o software - onde se utilizam criterios objetivos e impessoais para tentar atingir maior eficiência e maiores taxas de sucesso dentro de tal area.
   Enquanto a programação foca na eficiencia mais bruta do código, a engenharia de software foca no planejamento da programação em relação a outros aspectos, que linguagem utilizar?  como desenvolver exatamente? que decisões fazer? e considerando diversas perguntas e modos de se ver um projeto, fazer as melhores decisões ao longo do tempo.
