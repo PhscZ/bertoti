@@ -16,8 +16,8 @@
   
   
   
-  
-  
+<br />
+<br />
 1 - OQUE É ENGENHARIA DE SOFTWARE?
   Engenharia de software é o termo "engenharia" aplicado a software, ou seja, o conhecimento (geralmente ciêntifico) aplicado de forma a planejar, criar, executar, atualizar ou manter algo - no caso o software - onde se utilizam criterios objetivos e impessoais para tentar atingir maior eficiência e maiores taxas de sucesso dentro de tal area.
   Enquanto a programação foca na eficiencia mais bruta do código, a engenharia de software foca no planejamento da programação em relação a outros aspectos, que linguagem utilizar?  como desenvolver exatamente? que decisões fazer? e considerando diversas perguntas e modos de se ver um projeto, fazer as melhores decisões ao longo do tempo.
