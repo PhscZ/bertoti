@@ -38,4 +38,7 @@
   - Um sistema que seleciona que anuncio mostrar em que pagina, baseado em quem está vendo
   - Poder dar upload num site de vídeos, um sistema de recomendações, monetização, anuncios, etc
 
-  - Eficiência, praticidade, segurança, compatibilidade, escalabiliadde, estabilidade.
+  - Eficiência, praticidade, segurança, compatibilidade, escalabiliadde, estabilidade, tempo de desenvolvimento, tempo de manutenção.
+
+  Um exemplo de tradeoff entre requisitos não funcionais, seria escolher entre eficiência de tempo de execução de código e o tempo de desenvolvimento, a eficiência pura da linguagem que requer maior julgamento e pensamento sobre os algoritmos usados, enquanto ao utilizar uma linguagem simples de alto-nivel, você pode não pensar muito nos algoritmos e utilizar coisas feitas por outros.
+  Nisso também podem entrar outros tradeoffs, como segurança, compatibilidade, escabilidade e estabilidade, você vai saber fazer manutenção desse código? a segurança dele é maior ou menor? porque? não é possivel generalizar nessa situação, mas ao utilizar PHP para o backend de um website e não C++, a segurança de PHP dependendo da versão utilizada é menor, o tempo de execução do código em PHP é maior, a compatibilidade não faz diferença nessa questão, a escalabilidade de PHP por osmose é melhor pois você esta utilizando código generico e não especifico, porem a eficiência e segurança e estabilidade de C++ não se comparam com a de PHP são muito superiores.
