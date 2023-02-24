@@ -11,3 +11,26 @@
   There is also the fact that things come and go, years ago Adobe Flash was the hot thing, while now browsers do not even support it, and it was the high-level easy-to-learn easy-to-use language of the time, and it died exactly due to this: performance, security and compatibility issues. 
   
   I constantly experience all of this which I've mentioned myself with software I am often forced to use (good examples being everything related to Reddit), because after all a lot of people are not aware of better alternatives out there, but with time and new good software with good marketing and advertisement behind them, naturally things should get better, as they did from the Flash days, but you might just have some great opportunities coming up being aware of all of this!
+  
+  
+  
+  
+  
+1 - OQUE É ENGENHARIA DE SOFTWARE?
+  Engenharia de software é o termo "engenharia" aplicado a software, ou seja, o conhecimento (geralmente ciêntifico) aplicado de forma a planejar, criar, executar, atualizar ou manter algo - no caso o software - onde se utilizam criterios objetivos e impessoais para tentar atingir maior eficiência e maiores taxas de sucesso dentro de tal area.
+  Enquanto a programação foca na eficiencia mais bruta do código, a engenharia de software foca no planejamento da programação em relação a outros aspectos, que linguagem utilizar?  como desenvolver exatamente? que decisões fazer? e considerando diversas perguntas e modos de se ver um projeto, fazer as melhores decisões ao longo do tempo.
+
+2 - OQUE SÃO REQUISITOS?
+  Tudo necessario para o programa funcionar, uma mistura dos requisitos funcionais com os não funcionais.
+  
+2.1 - OQUE SÃO REQUISITOS FUNCIONAIS?
+  - Compra e venda num site de compras
+  - Busca numa search engine
+  - Anuncios num sistema que oferece anuncios
+  - Algum tipo de interface num sistema de edição de texto
+  - Sistemas relacionados a display de vídeo num site de videos.
+2.2 - OQUE SÃO REQUISITOS NÃO FUNCIONAIS
+  - Um sistema de busca efetivo para o site de compra
+  - Um sistema de prioridade bem planejado para uma search engine
+  - Um sistema que seleciona que anuncio mostrar em que pagina, baseado em quem está vendo
+  - Poder dar upload num site de vídeos, um sistema de recomendações, monetização, anuncios, etc
