@@ -20,10 +20,10 @@
 <br />
   
 1 - OQUE É ENGENHARIA DE SOFTWARE?
-  Engenharia de software é o termo "engenharia" aplicado a software, ou seja, o conhecimento (geralmente ciêntifico) aplicado de forma a planejar, criar, executar, atualizar ou manter algo - no caso o software - onde se utilizam criterios objetivos e impessoais para tentar atingir maior eficiência e maiores taxas de sucesso dentro de tal area.
-  Enquanto a programação foca na eficiencia mais bruta do código, a engenharia de software foca no planejamento da programação em relação a outros aspectos, que linguagem utilizar?  como desenvolver exatamente? que decisões fazer? e considerando diversas perguntas e modos de se ver um projeto, fazer as melhores decisões ao longo do tempo.
-1.1 - QUAL A RELAÇÃO DA ENGENHARIA DE SOFTWARE COM PROGRAMAÇÃO?
-  A engenharia de software é o planejamento da programação, considerando a programação fora duma camara de eco, onde variaveis não estratitamente técnicas da ciência da cmputação são usadas, como o tempo em relação a aspectos práticos da aplicação do código, uma distinção possivel é que, a programação cuida dos micro-problemas dentro de um escopo determinado, enquanto a engenharia de software cuida dos macro-problemas. Ou como a google gosta de colocar: Programação integrada sobre o tempo.
+  Engenharia de software é o termo "engenharia" aplicado a software, ou seja, o conhecimento (geralmente ciêntifico) aplicado de forma a planejar, criar, executar, atualizar ou manter algo - no caso o software - onde se utilizam criterios objetivos e impessoais para tentar atingir maior eficiência e maiores taxas de sucesso dentro de tal area.  
+  Enquanto a programação foca na eficiencia mais bruta do código, a engenharia de software foca no planejamento da programação em relação a outros aspectos, que linguagem utilizar?  como desenvolver exatamente? que decisões fazer? e considerando diversas perguntas e modos de se ver um projeto, fazer as melhores decisões ao longo do tempo.  
+1.1 - QUAL A RELAÇÃO DA ENGENHARIA DE SOFTWARE COM PROGRAMAÇÃO?  
+  A engenharia de software é o planejamento da programação, considerando a programação fora duma camara de eco, onde variaveis não estratitamente técnicas da ciência da cmputação são usadas, como o tempo em relação a aspectos práticos da aplicação do código, uma distinção possivel é que, a programação cuida dos micro-problemas dentro de um escopo determinado, enquanto a engenharia de software cuida dos macro-problemas. Ou como a google gosta de colocar: Programação integrada sobre o tempo.  
 
 2 - OQUE SÃO REQUISITOS?
   Tudo necessario para o programa funcionar, uma mistura dos requisitos funcionais com os não funcionais.
