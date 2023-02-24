@@ -21,7 +21,7 @@
   
 1 - OQUE É ENGENHARIA DE SOFTWARE?
   Engenharia de software é o termo "engenharia" aplicado a software, ou seja, o conhecimento (geralmente ciêntifico) aplicado de forma a planejar, criar, executar, atualizar ou manter algo - no caso o software - onde se utilizam criterios objetivos e impessoais para tentar atingir maior eficiência e maiores taxas de sucesso dentro de tal area.  
-  Enquanto a programação foca na eficiencia mais bruta do código, a engenharia de software foca no planejamento da programação em relação a outros aspectos, que linguagem utilizar?  como desenvolver exatamente? que decisões fazer? e considerando diversas perguntas e modos de se ver um projeto, fazer as melhores decisões ao longo do tempo.  
+  Enquanto a programação foca na eficiencia mais bruta do código, a engenharia de software foca no planejamento da programação em relação a outros aspectos, que linguagem utilizar?  como desenvolver exatamente? que decisões fazer? e considerando diversas perguntas e modos de se ver um projeto, fazer as melhores decisões ao longo do tempo. Ou como o senhor gosta de colocar: tempo, e tradeoffs.  
 1.1 - QUAL A RELAÇÃO DA ENGENHARIA DE SOFTWARE COM PROGRAMAÇÃO?  
   A engenharia de software é o planejamento da programação, considerando a programação fora duma camara de eco, onde variaveis não estratitamente técnicas da ciência da cmputação são usadas, como o tempo em relação a aspectos práticos da aplicação do código, uma distinção possivel é que, a programação cuida dos micro-problemas dentro de um escopo determinado, enquanto a engenharia de software cuida dos macro-problemas. Ou como a google gosta de colocar: Programação integrada sobre o tempo.  
 
@@ -35,7 +35,7 @@
   - Algum tipo de interface num sistema de edição de texto
   - Sistemas relacionados a display de vídeo num site de videos.
 
-  - Tudo relacionado ao escopo do objetivo principal da aplicação, necessario para atingir o objetivo principal por definição.
+  - Tudo relacionado ao escopo do objetivo principal da aplicação, necessario para atingir o objetivo principal por definição. As tarefas do sistema, as FUNCIONALIDADES.
   
 2.2 - OQUE SÃO REQUISITOS NÃO FUNCIONAIS
   - Um sistema de busca efetivo para o site de compra
@@ -43,7 +43,7 @@
   - Um sistema que seleciona que anuncio mostrar em que pagina, baseado em quem está vendo
   - Poder dar upload num site de vídeos, um sistema de recomendações, monetização, anuncios, etc
 
-  - Eficiência, praticidade, segurança, compatibilidade, escalabiliadde, estabilidade, tempo de desenvolvimento, tempo de manutenção.
+  - Eficiência (desempenho), praticidade (usabilidade), segurança, compatibilidade, escalabiliadde, estabilidade, tempo de desenvolvimento, manutenção. As QUALIDADES do sistema.
 
   Um exemplo de tradeoff entre requisitos não funcionais, seria escolher entre eficiência de tempo de execução de código e o tempo de desenvolvimento, a eficiência pura da linguagem que requer maior julgamento e pensamento sobre os algoritmos usados, enquanto ao utilizar uma linguagem simples de alto-nivel, você pode não pensar muito nos algoritmos e utilizar coisas feitas por outros.
   Nisso também podem entrar outros tradeoffs, como segurança, compatibilidade, escabilidade e estabilidade, você vai saber fazer manutenção desse código? a segurança dele é maior ou menor? porque? não é possivel generalizar nessa situação, mas ao utilizar PHP para o backend de um website e não C++, a segurança de PHP dependendo da versão utilizada é menor, o tempo de execução do código em PHP é maior, a compatibilidade não faz diferença nessa questão, a escalabilidade de PHP por osmose é melhor pois você esta utilizando código generico e não especifico, porem a eficiência e segurança e estabilidade de C++ não se comparam com a de PHP são muito superiores.
