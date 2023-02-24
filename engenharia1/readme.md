@@ -29,8 +29,13 @@
   - Anuncios num sistema que oferece anuncios
   - Algum tipo de interface num sistema de edição de texto
   - Sistemas relacionados a display de vídeo num site de videos.
+
+  - Tudo relacionado ao escopo do objetivo principal da aplicação, necessario para atingir o objetivo principal por definição.
+  
 2.2 - OQUE SÃO REQUISITOS NÃO FUNCIONAIS
   - Um sistema de busca efetivo para o site de compra
   - Um sistema de prioridade bem planejado para uma search engine
   - Um sistema que seleciona que anuncio mostrar em que pagina, baseado em quem está vendo
   - Poder dar upload num site de vídeos, um sistema de recomendações, monetização, anuncios, etc
+
+  - Eficiência, praticidade, segurança, compatibilidade, escalabiliadde, estabilidade.
