@@ -22,12 +22,14 @@ class Carro{
 		dodgeCharger.comprimento = 529.6;
 		dodgeCharger.altura = 134.6;
 		
+		
 		Motor hemi426 = new Motor();
 		hemi426.litros = 7.0;
 		hemi426.nValvulas = 8;
 		hemi426.linhas = 2;
 		hemi426.rpm = 0;
 		hemi426.rodando = false;
+		
 		
 		Cambio a833 = new Cambio();
 		a833.engate = 0;
@@ -40,6 +42,24 @@ class Carro{
 		mw752.rotacao = 0;
 		mw752.rotacaoMax = 3.2;
 		
-		EixoRoda roda = new EixoRoda();
+		EixoRoda eixoFrontal = new EixoRoda();
+		eixoFrontal.largura = 151.6;
+		eixoFrontal.diametro = 16;
+		eixoFrontal.rotaciona = true;
+		eixoFrontal.anguloMax = 55;
+		eixoFrontal.angulo = 0;
+		
+		EixoRoda eixoTraseiro = new EixoRoda();
+		eixoTraseiro.largura = 150.4;
+		eixoTraseiro.diametro = 16;
+		eixoTraseiro.rotaciona = false;
+		eixoFrontal.anguloMax = 0;
+		eixoFrontal.angulo = 0;
+		
+		Freio freio = new Freio();
+		freio.tipo = 1;
+		freio.potencia = 1.0;
+		freio.pressao = 0.0;
+		freio.pressaoMax = 1.0;
 	}
 }
