@@ -41,7 +41,7 @@
   - Um sistema de busca efetivo para o site de compra
   - Um sistema de prioridade bem planejado para uma search engine
   - Um sistema que seleciona que anuncio mostrar em que pagina, baseado em quem está vendo
-  - Poder dar upload num site de vídeos, um sistema de recomendações, monetização, anuncios, etc
+  - Um sistema de recomendações, monetização, anuncios, etc num site de videos.
 
   - Eficiência (desempenho), praticidade (usabilidade), segurança, compatibilidade, escalabilidade, estabilidade, tempo de desenvolvimento, manutenção. As QUALIDADES do sistema.
 
