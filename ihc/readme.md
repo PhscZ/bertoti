@@ -1,2 +1,2 @@
 ## SIGA
-<img src="/images/siga.png">
+<img src="/ihc/images/siga.png">
