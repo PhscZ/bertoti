@@ -15,3 +15,39 @@ Quebrando principalmente a heuristica 7: Flexibility and efficiency of use, ente
 Quebrando principalmente a heuristica 6: tem que parar para ler os campos, não é intuitivo e é confuso, tem que lembrar que Avisos é a tela principal
 <br>
 Também quebrando a heuristica 8: Aesthetic and minimalist design, muitas informações na tela, a maioria sendo desnecessaria
+
+
+## WINDOWS
+
+Queria escutar meu próprio microfone no Windows<br>
+Intuitivamente apertei o botão direito em cima do icone de som, que já é um pouco escondido nas versões mais novas do Windows.
+<img src="/ihc/images/windows/01.png">
+<br><br>
+Existem três opções que fazem sentido, as duas primeiras e Sons.<br>
+Ao clickar na mais intuitiva, Configurações de som, vou parar aqui.  
+<img src="/ihc/images/windows/02.png">
+Onde existem muitas opções.<br>
+Ao clickar em Microphone que é a que mais faz sentido, vou parar nessa tela.<br>
+<img src="/ihc/images/windows/03.png">
+Onde não consigo colocar para escutar o microfone, esse Iniciar teste não faz essa função.<br>
+<br>
+Se for em Todos dispositivos de som, aparece isso<br>
+<img src="/ihc/images/windows/04.png">
+Se clickar em Microphone novamente, vou para a tela anterior.<br>
+<br>
+Só em Mais configurações de som que consigo ir para o menu das versões anteriores do Windows, isso vai ser relevante depois.<br>
+<img src="/ihc/images/windows/05.png">
+<br><br><br>
+Se clickar em Abrir o Mixer de volume, vou para a seguinte tela<br>
+<img src="/ihc/images/windows/06.png"><br>
+Se clickar em qualquer coisa nela, não consigo chegar até o microfone nem nada, vou para a seguinte tela e fico preso nela<br>
+<img src="/ihc/images/windows/08.png"><br>
+<br><br>
+Se eu clickar em Sons, vou para esse menu das versões anteriores do Windows.<br>
+<img src="/ihc/images/windows/07.png">
+<br><br>
+Como visto anteriormente, existem dois modos de chegar nesse menu, nele posso clickar em Gravação, e ver meu microfone<br>
+<img src="/ihc/images/windows/09.png"><br>
+Se clickar em propriedades, finalmente chego no local desejado><br>
+<img src="/ihc/images/windows/10.png"><br>
+E assim finalmente consigo escutar meu microfone.
