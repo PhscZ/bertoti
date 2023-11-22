@@ -1,3 +1,5 @@
+https://www.nngroup.com/articles/ten-usability-heuristics/
+<br>
 ## SIGA
 
 
@@ -51,3 +53,7 @@ Como visto anteriormente, existem dois modos de chegar nesse menu, nele posso cl
 Se clickar em propriedades, finalmente chego no local desejado><br>
 <img src="/ihc/images/windows/10.png"><br>
 E assim finalmente consigo escutar meu microfone.
+<br><br><br>
+Nessa situação toda, acredito que a heuristica 1 (nem sei se meu microfone foi detectado ou funciona corretamente), a heuristica 2, a heuristica 4 (diferentes versões do Windows são diferentes nisso), a heuritica 6 (só cheguei na tela final pois memorizei o caminho) e a heuristica 8 (a estética constantemente muda entre as telas, pois algumas foram feitas em versões anteriores do Windows, sem falar nas varias informações não uteis presentes e botões redundantes)<br>
+<br>
+Ao menos a heuristica 7 foi seguida, pois poderia pesquisar na barra de busca do Windows o painel de som, ou usar o comando Windows+R e depois digitar "control mmsys.cpl sounds", algo que usuarios avançados podem usar, assim não tendo que clickar tanto.
